@@ -9,8 +9,7 @@ Webpack 4.0
 
 ## Usage
 ```
-git clone https://github.com/MariusBallot/Webpack-Starter.git
-npm i
+npm i mb-webpack-starter
 ```
 
 ### Dev mode
